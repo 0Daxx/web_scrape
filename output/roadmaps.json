@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "aws",
+    "title": "AWS",
+    "category": "",
+    "url": "https://roadmap.sh/aws"
+  },
+  {
+    "slug": "api-security-best-practices",
+    "title": "API Security",
+    "category": "",
+    "url": "https://roadmap.sh/api-security-best-practices"
+  },
+  {
+    "slug": "backend-performance-best-practices",
+    "title": "Backend Performance",
+    "category": "",
+    "url": "https://roadmap.sh/backend-performance-best-practices"
+  },
+  {
+    "slug": "frontend-performance-best-practices",
+    "title": "Frontend Performance",
+    "category": "",
+    "url": "https://roadmap.sh/frontend-performance-best-practices"
+  },
+  {
+    "slug": "code-review-best-practices",
+    "title": "Code Review",
+    "category": "",
+    "url": "https://roadmap.sh/code-review-best-practices"
+  },
+  {
+    "slug": "devops",
+    "title": "DevOps",
+    "category": "",
+    "url": "https://roadmap.sh/devops"
+  },
+  {
+    "slug": "devsecops",
+    "title": "DevSecOps",
+    "category": "",
+    "url": "https://roadmap.sh/devsecops"
+  },
+  {
+    "slug": "cloud-computing",
+    "title": "Cloud Computing",
+    "category": "",
+    "url": "https://roadmap.sh/cloud-computing"
+  },
+  {
+    "slug": "linux",
+    "title": "Linux",
+    "category": "",
+    "url": "https://roadmap.sh/linux"
+  },
+  {
+    "slug": "kubernetes",
+    "title": "Kubernetes",
+    "category": "",
+    "url": "https://roadmap.sh/kubernetes"
+  },
+  {
+    "slug": "docker",
+    "title": "Docker",
+    "category": "",
+    "url": "https://roadmap.sh/docker"
+  },
+  {
+    "slug": "terraform",
+    "title": "Terraform",
+    "category": "",
+    "url": "https://roadmap.sh/terraform"
+  },
+  {
+    "slug": "cloudflare",
+    "title": "Cloudflare",
+    "category": "",
+    "url": "https://roadmap.sh/cloudflare"
+  },
+  {
+    "slug": "network-engineer",
+    "title": "Network Engineer",
+    "category": "",
+    "url": "https://roadmap.sh/network-engineer"
+  },
+  {
+    "slug": "cyber-security",
+    "title": "Cyber Security",
+    "category": "",
+    "url": "https://roadmap.sh/cyber-security"
+  },
+  {
+    "slug": "ai-red-teaming",
+    "title": "AI Red Teaming",
+    "category": "",
+    "url": "https://roadmap.sh/ai-red-teaming"
+  },
+  {
+    "slug": "c",
+    "title": "C Programming",
+    "category": "",
+    "url": "https://roadmap.sh/c"
+  },
+  {
+    "slug": "rust",
+    "title": "Rust",
+    "category": "",
+    "url": "https://roadmap.sh/rust"
+  },
+  {
+    "slug": "golang",
+    "title": "Go",
+    "category": "",
+    "url": "https://roadmap.sh/golang"
+  },
+  {
+    "slug": "blockchain",
+    "title": "Blockchain",
+    "category": "",
+    "url": "https://roadmap.sh/blockchain"
+  },
+  {
+    "slug": "seo",
+    "title": "SEO",
+    "category": "",
+    "url": "https://roadmap.sh/seo"
+  },
+  {
+    "slug": "product-design",
+    "title": "Product Design",
+    "category": "",
+    "url": "https://roadmap.sh/product-design"
+  },
+  {
+    "slug": "ux-design",
+    "title": "UX Design",
+    "category": "",
+    "url": "https://roadmap.sh/ux-design"
+  },
+  {
+    "slug": "design-system",
+    "title": "Design System",
+    "category": "",
+    "url": "https://roadmap.sh/design-system"
+  },
+  {
+    "slug": "cpp",
+    "title": "C++",
+    "category": "",
+    "url": "https://roadmap.sh/cpp"
+  },
+  {
+    "slug": "scala",
+    "title": "Scala",
+    "category": "",
+    "url": "https://roadmap.sh/scala"
+  },
+  {
+    "slug": "backend",
+    "title": "Backend",
+    "category": "",
+    "url": "https://roadmap.sh/backend"
+  },
+  {
+    "slug": "game-developer",
+    "title": "Game Developer",
+    "category": "",
+    "url": "https://roadmap.sh/game-developer"
+  },
+  {
+    "slug": "server-side-game-developer",
+    "title": "Server Side Game Developer",
+    "category": "",
+    "url": "https://roadmap.sh/server-side-game-developer"
+  },
+  {
+    "slug": "software-architect",
+    "title": "Software Architect",
+    "category": "",
+    "url": "https://roadmap.sh/software-architect"
+  },
+  {
+    "slug": "power-bi",
+    "title": "Power BI",
+    "category": "",
+    "url": "https://roadmap.sh/power-bi"
+  },
+  {
+    "slug": "technical-writer",
+    "title": "Technical Writer",
+    "category": "",
+    "url": "https://roadmap.sh/technical-writer"
+  },
+  {
+    "slug": "product-manager",
+    "title": "Product Manager",
+    "category": "",
+    "url": "https://roadmap.sh/product-manager"
+  },
+  {
+    "slug": "engineering-manager",
+    "title": "Engineering Manager",
+    "category": "",
+    "url": "https://roadmap.sh/engineering-manager"
+  },
+  {
+    "slug": "devrel",
+    "title": "Developer Relations",
+    "category": "",
+    "url": "https://roadmap.sh/devrel"
+  },
+  {
+    "slug": "forward-deployed-engineer",
+    "title": "Forward Deployed Engineer",
+    "category": "",
+    "url": "https://roadmap.sh/forward-deployed-engineer"
+  },
+  {
+    "slug": "python",
+    "title": "Python",
+    "category": "",
+    "url": "https://roadmap.sh/python"
+  },
+  {
+    "slug": "r-programming",
+    "title": "R Programming",
+    "category": "",
+    "url": "https://roadmap.sh/r-programming"
+  },
+  {
+    "slug": "sql",
+    "title": "SQL",
+    "category": "",
+    "url": "https://roadmap.sh/sql"
+  },
+  {
+    "slug": "javascript",
+    "title": "JavaScript",
+    "category": "",
+    "url": "https://roadmap.sh/javascript"
+  },
+  {
+    "slug": "typescript",
+    "title": "TypeScript",
+    "category": "",
+    "url": "https://roadmap.sh/typescript"
+  },
+  {
+    "slug": "nodejs",
+    "title": "Node.js",
+    "category": "",
+    "url": "https://roadmap.sh/nodejs"
+  },
+  {
+    "slug": "java",
+    "title": "Java",
+    "category": "",
+    "url": "https://roadmap.sh/java"
+  },
+  {
+    "slug": "php",
+    "title": "PHP",
+    "category": "",
+    "url": "https://roadmap.sh/php"
+  },
+  {
+    "slug": "kotlin",
+    "title": "Kotlin",
+    "category": "",
+    "url": "https://roadmap.sh/kotlin"
+  },
+  {
+    "slug": "html",
+    "title": "HTML",
+    "category": "",
+    "url": "https://roadmap.sh/html"
+  },
+  {
+    "slug": "css",
+    "title": "CSS",
+    "category": "",
+    "url": "https://roadmap.sh/css"
+  },
+  {
+    "slug": "swift-ui",
+    "title": "Swift & Swift UI",
+    "category": "",
+    "url": "https://roadmap.sh/swift-ui"
+  },
+  {
+    "slug": "shell-bash",
+    "title": "Shell / Bash",
+    "category": "",
+    "url": "https://roadmap.sh/shell-bash"
+  },
+  {
+    "slug": "laravel",
+    "title": "Laravel",
+    "category": "",
+    "url": "https://roadmap.sh/laravel"
+  },
+  {
+    "slug": "django",
+    "title": "Django",
+    "category": "",
+    "url": "https://roadmap.sh/django"
+  },
+  {
+    "slug": "ruby",
+    "title": "Ruby",
+    "category": "",
+    "url": "https://roadmap.sh/ruby"
+  },
+  {
+    "slug": "ruby-on-rails",
+    "title": "Ruby on Rails",
+    "category": "",
+    "url": "https://roadmap.sh/ruby-on-rails"
+  },
+  {
+    "slug": "computer-science",
+    "title": "Computer Science",
+    "category": "",
+    "url": "https://roadmap.sh/computer-science"
+  },
+  {
+    "slug": "system-design",
+    "title": "System Design",
+    "category": "",
+    "url": "https://roadmap.sh/system-design"
+  },
+  {
+    "slug": "leetcode",
+    "title": "LeetCode",
+    "category": "",
+    "url": "https://roadmap.sh/leetcode"
+  },
+  {
+    "slug": "software-design-architecture",
+    "title": "Software Design and Architecture",
+    "category": "",
+    "url": "https://roadmap.sh/software-design-architecture"
+  },
+  {
+    "slug": "datastructures-and-algorithms",
+    "title": "Data Structures & Algorithms",
+    "category": "",
+    "url": "https://roadmap.sh/datastructures-and-algorithms"
+  },
+  {
+    "slug": "python-data-analysis",
+    "title": "Python for Data Analysis",
+    "category": "",
+    "url": "https://roadmap.sh/python-data-analysis"
+  },
+  {
+    "slug": "postgresql-dba",
+    "title": "PostgreSQL",
+    "category": "",
+    "url": "https://roadmap.sh/postgresql-dba"
+  },
+  {
+    "slug": "mongodb",
+    "title": "MongoDB",
+    "category": "",
+    "url": "https://roadmap.sh/mongodb"
+  },
+  {
+    "slug": "redis",
+    "title": "Redis",
+    "category": "",
+    "url": "https://roadmap.sh/redis"
+  },
+  {
+    "slug": "elasticsearch",
+    "title": "Elasticsearch",
+    "category": "",
+    "url": "https://roadmap.sh/elasticsearch"
+  },
+  {
+    "slug": "android",
+    "title": "Android",
+    "category": "",
+    "url": "https://roadmap.sh/android"
+  },
+  {
+    "slug": "ios",
+    "title": "iOS",
+    "category": "",
+    "url": "https://roadmap.sh/ios"
+  },
+  {
+    "slug": "flutter",
+    "title": "Flutter",
+    "category": "",
+    "url": "https://roadmap.sh/flutter"
+  },
+  {
+    "slug": "react-native",
+    "title": "React Native",
+    "category": "",
+    "url": "https://roadmap.sh/react-native"
+  },
+  {
+    "slug": "aws-best-practices",
+    "title": "AWS",
+    "category": "",
+    "url": "https://roadmap.sh/aws-best-practices"
+  },
+  {
+    "slug": "frontend",
+    "title": "Frontend",
+    "category": "",
+    "url": "https://roadmap.sh/frontend"
+  },
+  {
+    "slug": "full-stack",
+    "title": "Full Stack",
+    "category": "",
+    "url": "https://roadmap.sh/full-stack"
+  },
+  {
+    "slug": "qa",
+    "title": "QA",
+    "category": "",
+    "url": "https://roadmap.sh/qa"
+  },
+  {
+    "slug": "api-design",
+    "title": "API Design",
+    "category": "",
+    "url": "https://roadmap.sh/api-design"
+  },
+  {
+    "slug": "graphql",
+    "title": "GraphQL",
+    "category": "",
+    "url": "https://roadmap.sh/graphql"
+  },
+  {
+    "slug": "git-github",
+    "title": "Git and GitHub",
+    "category": "",
+    "url": "https://roadmap.sh/git-github"
+  },
+  {
+    "slug": "wordpress",
+    "title": "WordPress",
+    "category": "",
+    "url": "https://roadmap.sh/wordpress"
+  },
+  {
+    "slug": "inference-engineering",
+    "title": "Inference Engineering",
+    "category": "",
+    "url": "https://roadmap.sh/inference-engineering"
+  },
+  {
+    "slug": "data-analyst",
+    "title": "Data Analyst",
+    "category": "",
+    "url": "https://roadmap.sh/data-analyst"
+  },
+  {
+    "slug": "ai-data-scientist",
+    "title": "AI and Data Scientist",
+    "category": "",
+    "url": "https://roadmap.sh/ai-data-scientist"
+  },
+  {
+    "slug": "bi-analyst",
+    "title": "BI Analyst",
+    "category": "",
+    "url": "https://roadmap.sh/bi-analyst"
+  },
+  {
+    "slug": "claude-code",
+    "title": "Claude Code",
+    "category": "",
+    "url": "https://roadmap.sh/claude-code"
+  },
+  {
+    "slug": "vibe-coding",
+    "title": "Vibe Coding",
+    "category": "",
+    "url": "https://roadmap.sh/vibe-coding"
+  },
+  {
+    "slug": "openclaw",
+    "title": "OpenClaw",
+    "category": "",
+    "url": "https://roadmap.sh/openclaw"
+  },
+  {
+    "slug": "ai-engineer",
+    "title": "AI Engineer",
+    "category": "",
+    "url": "https://roadmap.sh/ai-engineer"
+  },
+  {
+    "slug": "data-engineer",
+    "title": "Data Engineer",
+    "category": "",
+    "url": "https://roadmap.sh/data-engineer"
+  },
+  {
+    "slug": "machine-learning",
+    "title": "Machine Learning",
+    "category": "",
+    "url": "https://roadmap.sh/machine-learning"
+  },
+  {
+    "slug": "ai-product-builder",
+    "title": "AI Product Builders",
+    "category": "",
+    "url": "https://roadmap.sh/ai-product-builder"
+  },
+  {
+    "slug": "prompt-engineering",
+    "title": "Prompt Engineering",
+    "category": "",
+    "url": "https://roadmap.sh/prompt-engineering"
+  },
+  {
+    "slug": "mlops",
+    "title": "MLOps",
+    "category": "",
+    "url": "https://roadmap.sh/mlops"
+  },
+  {
+    "slug": "ai-agents",
+    "title": "AI Agents",
+    "category": "",
+    "url": "https://roadmap.sh/ai-agents"
+  },
+  {
+    "slug": "react",
+    "title": "React",
+    "category": "",
+    "url": "https://roadmap.sh/react"
+  },
+  {
+    "slug": "vue",
+    "title": "Vue",
+    "category": "",
+    "url": "https://roadmap.sh/vue"
+  },
+  {
+    "slug": "angular",
+    "title": "Angular",
+    "category": "",
+    "url": "https://roadmap.sh/angular"
+  },
+  {
+    "slug": "aspnet-core",
+    "title": "ASP.NET Core",
+    "category": "",
+    "url": "https://roadmap.sh/aspnet-core"
+  },
+  {
+    "slug": "spring-boot",
+    "title": "Spring Boot",
+    "category": "",
+    "url": "https://roadmap.sh/spring-boot"
+  },
+  {
+    "slug": "nextjs",
+    "title": "Next.js",
+    "category": "",
+    "url": "https://roadmap.sh/nextjs"
+  },
+  {
+    "slug": "code-review",
+    "title": "Code Review",
+    "category": "",
+    "url": "https://roadmap.sh/code-review"
+  },
+  {
+    "slug": "devops-beginner",
+    "title": "DevOps Beginner",
+    "category": "",
+    "url": "https://roadmap.sh/devops-beginner"
+  },
+  {
+    "slug": "frontend-beginner",
+    "title": "Frontend Beginner",
+    "category": "",
+    "url": "https://roadmap.sh/frontend-beginner"
+  },
+  {
+    "slug": "backend-beginner",
+    "title": "Backend Beginner",
+    "category": "",
+    "url": "https://roadmap.sh/backend-beginner"
+  },
+  {
+    "slug": "git-github-beginner",
+    "title": "Git and GitHub Beginner",
+    "category": "",
+    "url": "https://roadmap.sh/git-github-beginner"
+  }
+]
