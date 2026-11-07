@@ -84,18 +84,18 @@ def clean_project_md():
 
 # def extract_roadmap():
 
-def extract_projectList():
-    page = Fetcher.get('https://roadmap.sh/projects')
-    # print(page)
-    # with open ('roadmap.md', 'w') as f:
-    #     f.write(page.html_content)
-        # f.write(page.markdown())
-    # print("project_list , ", page.html_content.getall("span.my3"))
-    # print("project_list , ", page.html_content.getall("span.my3"))
-    # page.html_content.getall("span.my3")
+def extract_roadmap_projectList():
+    roadmaps_list = ["devops" , "frontend" , "backend" , "linux" , "react" , "docker" , "python",]
 
-    with open('project_list.html', 'w') as f:
-        f.write(str(page.markdown()))
+    for roadmap in roadmaps_list:
+        page = Fetcher.get(f'https://roadmap.sh/{roadmap}/projects')
+        with open(f'project_list_{roadmap}.md', 'w') as f:
+            f.write(str(page.markdown()))
+            
+    # page = Fetcher.get('https://roadmap.sh/devops/projects')    
+
+    # with open('project_list.md', 'w') as f:
+    #     f.write(str(page.markdown()))
         # f.write(str(page.children))
         # f.write(str(page.get_all_text()))
         # f.write(str(page.markdown()))
@@ -105,14 +105,47 @@ def extract_projectList():
         # page.html_content.find("span.my3")
         # f.write(str(page.html_content.getall()
 
-# 
-        # f.write(str(page.css("span.my3::text").getall()))
 
-        # f.write(str(page.css("div.::span").getall()))
-        # f.write(str(page.css("a.flex::span").getall()))
-        # f.write(str(page.css("div.::span").getall()))
+def clean_roadmap_projectList():
+    import os
+    # print(os.listdir('./roadmap_projects'))
+    # return
 
-        # f.write(str(page.html_content.csgetall("span.my3")))
+    # for filename in os.listdir('./roadmap_projects'):
+    #         with open(f'./roadmap_projects/{filename}', 'r+') as f:
+    #             content = f.readlines()
+    #             # delete 2 - 12 lines
+    #             # content = content[0:1] + content[12:]  # Keep lines after the 12th line
+
+    #             # find "Personalize" and delete everything before it
+    #             for i, line in enumerate(content):
+    #                 if "Personalize" in line:
+    #                     # find Personalize and delete everything before that line
+    #                     del content[0:i +4]
+    #                     break
+                
+    #             # Find "Join the Community" and delete everything after it
+    #             for i, line in enumerate(content):
+    #                 if "Join the Community" in line:
+    #                     # Delete everything after this line
+    #                     del content[i:] 
+    #                     # ontent[i-2:]
+    #                     break
+    #             f.seek(0)  # Move the file pointer to the beginning of the file
+    #             f.truncate()  # Clear the file content
+    #             f.writelines(content)
+
+    #Phase 2 : project ids are in ()  and delete [ ] and seperate () with new line 
+    import re
+    with open(f'./roadmap_projects/project_list_backend.md', 'r+') as f:
+        content = f.read()
+        print("content , ", content)
+        content = re.findall(r'\(([^)]*)\)', content)
+        print("content , ", content)
+        f.seek(0)
+        f.truncate()
+        f.writelines(content)
+    
 
 def clean_projectList_md():
     with open('project_list.md', 'r') as f:
@@ -125,7 +158,7 @@ def clean_projectList_md():
             j.writelines(content)
     
         
-def extract_projectList():
+def extract_all_project():
     base_url = 'https://roadmap.sh'
     with open('project_list_cleaned.md', 'r') as f:
         content = f.readlines()
@@ -210,14 +243,15 @@ def main():
     # fn2()
     # fetch_project_details()
     
-    # extract_projectList()
+    # extract_all_project()
     # clean_projectList_md()
-    # extract_projectList()
+    # extract_roadmap_projectList()
     # clean_project_md(open('project.markdown', 'r').read())
     # clean_project_md()
+    clean_roadmap_projectList()
 
     # checkthis()
-    clean_project_file()
+    # clean_project_file()
 
 
 if __name__ == "__main__":
