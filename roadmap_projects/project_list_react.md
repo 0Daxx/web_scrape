@@ -1,2 +1,8 @@
-[beginnerFrontendFlash CardsCreate a flash card app using JavaScript frameworks.](/projects/flash-cards) [intermediateFrameworksQuiz AppBuild a browser-based quiz application to test any knowledge](/projects/quiz-app) [intermediateAPIWeather Web AppBuild a weather app that fetches and displays weather for a given location.](/projects/weather-app) [intermediateAPI IntegrationGitHub Random RepositoryCreate a GitHub random repository finder using GitHub API.](/projects/github-random-repo) [intermediateFrameworksPomodoro TimerCreate a pomodoro tracker application for productivity](/projects/pomodoro-timer) [advancedAPIScalable E-Commerce PlatformBuild an e-commerce platform using microservices architecture.](/projects/scalable-ecommerce-platform)
+
+flash-cards 
+quiz-app 
+weather-app 
+github-random-repo 
+pomodoro-timer 
+scalable-ecommerce-platform
 

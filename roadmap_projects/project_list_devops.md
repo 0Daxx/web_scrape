@@ -1,2 +1,28 @@
-[beginnerCLIServer Performance StatsWrite a script to analyse basic server performance stats.](/projects/server-stats) [beginnerCLILog Archive ToolBuild a tool to archive logs from the CLI with the date and time.](/projects/log-archive-tool) [beginnerCLINginx Log AnalyserWrite a simple tool to analyze logs from the command line.](/projects/nginx-log-analyser) [beginnerCI / CDGitHub Pages DeploymentWrite a simple GitHub Actions workflow to deploy a static website to GitHub Pages.](/projects/github-actions-deployment-workflow) [beginnerSSHSSH Remote Server SetupSetup a basic remote linux server and configure it to allow SSH.](/projects/ssh-remote-server-setup) [beginnerNginxStatic Site ServerSetup a basic linux server and configure it to serve a static site.](/projects/static-site-server) [beginnerDNSBasic DNS SetupPurchase a custom domain and set up basic DNS records.](/projects/basic-dns) [beginnerMonitoringSimple MonitoringSet up a basic monitoring dashboard using Netdata.](/projects/simple-monitoring-dashboard) [beginnerSystemdDummy Systemd ServiceCreate a long-running systemd service that logs to a file.](/projects/dummy-systemd-service) [beginnerDockerBasic DockerfileBuild a basic Dockerfile to create a Docker image.](/projects/basic-dockerfile) [beginnerAWSEC2 InstanceCreate an EC2 instance on AWS and connect to it using SSH.](/projects/ec2-instance) [intermediateFrameworksPomodoro TimerCreate a pomodoro tracker application for productivity](/projects/pomodoro-timer) [intermediateAnsibleConfiguration ManagementWrite an Ansible playbook to configure a Linux server.](/projects/configuration-management) [intermediateTerraformIaC on DigitalOceanWrite Terraform code to create a Droplet on DigitalOcean](/projects/iac-digitalocean) [intermediateCI/CDNode.js Service DeploymentUse GitHub Actions to Deploy a Node.js Service to a remote server](/projects/nodejs-service-deployment) [intermediateDockerDockerized ServiceUse GitHub Actions to Deploy a Dockerized Node.js Service](/projects/dockerized-service-deployment) [intermediateDocker ComposeMulti-Container ApplicationUse Docker Compose to run a multi-container application](/projects/multi-container-service) [intermediateBackupsAutomated DB BackupsSetup a scheduled workflow to backup a Database every 12 hours](/projects/automated-backups) [intermediateNetworkingBastion HostSetup a bastion host for managing access to private infrastructure.](/projects/bastion-host) [intermediateSecurityFile Integrity CheckerVerify the integrity of application log files to detect tampering.](/projects/file-integrity-checker) [intermediateLinuxLinux Server SetupLearn to set up and secure a Linux server from scratch.](/projects/linux-server-setup) [intermediateVPNVPN Server SetupSet up a WireGuard or OpenVPN server to secure remote access.](/projects/vpn-server-setup) [advancedDevOpsBlue-Green DeploymentSetup a blue-green deployment strategy for your application.](/projects/blue-green-deployment) [advancedMonitoringPrometheus and GrafanaSetup monitoring using Prometheus and visualize metrics in Grafana.](/projects/monitoring) [advancedDockerMulti-Service ApplicationSetup a multi-service optimized docker implementation](/projects/multiservice-docker) [advancedDevOpsService DiscoverySetup service discovery with dummy services and Consul](/projects/service-discovery)
+
+server-stats 
+log-archive-tool 
+nginx-log-analyser 
+github-actions-deployment-workflow 
+ssh-remote-server-setup 
+static-site-server 
+basic-dns 
+simple-monitoring-dashboard 
+dummy-systemd-service 
+basic-dockerfile 
+ec2-instance 
+pomodoro-timer 
+configuration-management 
+iac-digitalocean 
+nodejs-service-deployment 
+dockerized-service-deployment 
+multi-container-service 
+automated-backups 
+bastion-host 
+file-integrity-checker 
+linux-server-setup 
+vpn-server-setup 
+blue-green-deployment 
+monitoring 
+multiservice-docker 
+service-discovery
 
